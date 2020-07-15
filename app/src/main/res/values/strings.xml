@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Healthcare</string>
+    <string name="welcomepage">Welcome! Click on the button below to continue</string>
+    <string name="welcomebutton">Continue</string>
+    <string name="welcomedoctor">Doctor</string>
+    <string name="welcomepatient">Patient</string>
+    <string name="doctorloginnname">Username</string>
+    <string name="doctorloginpwd">Password</string>
+    <string name="doctorlogin">Login</string>
+    <string name="doctorsignup">Sign Up</string>
+    <string name="doctorsignupname">Name</string>
+    <string name="doctorsignupemail_et" />
+    <string name="doctorsignupemail">Email</string>
+    <string name="doctorsignupdob">Date of Birth</string>
+    <string name="doctorsignupgen">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="doctorsignupno">Phone Number</string>
+    <string name="doctorsignuppwd">Password</string>
+    <string name="doctorsignupcpwd">Confirm Password</string>
+    <string name="doctorsignupcancel">Cancel</string>
+    <string name="Name">Name</string>
+</resources>
